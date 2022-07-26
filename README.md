@@ -106,3 +106,4 @@ Default donation fee is 2% can be reduced to 1% or disabled via `donate-level` o
 * support@xmrig.com
 * [reddit](https://www.reddit.com/user/XMRig/)
 * [twitter](https://twitter.com/xmrig_dev)
+# xmrigproxy
